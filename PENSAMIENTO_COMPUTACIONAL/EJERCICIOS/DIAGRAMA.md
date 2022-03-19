@@ -21,6 +21,8 @@ resultado=número,metro*1.09
 Muestra(el número de yardas de +número metro+número metro+"es"+resultado
 fin
 
+
+
 5. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 Inicio 
 Declarar (base,Altura,Area)Float
