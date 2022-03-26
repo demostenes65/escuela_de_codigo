@@ -21,6 +21,7 @@ resultado=número,metro*1.09
 Muestra(el número de yardas de +número metro+número metro+"es"+resultado
 fin
 
+![image](https://user-images.githubusercontent.com/88791189/160257516-e2c662d5-a1b6-4c0d-87d1-0cf1f440b246.png)
 
 
 5. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
