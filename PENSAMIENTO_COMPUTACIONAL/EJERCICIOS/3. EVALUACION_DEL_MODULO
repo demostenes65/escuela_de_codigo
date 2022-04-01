@@ -1,6 +1,27 @@
-Actividad 1. Programa, usando algoritmo de estructura selectiva, lo siguiente:
+Actividad 1.
+Programa, usando algoritmo de estructura selectiva, lo siguiente:
 Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para mostrar el mensaje APROBADO si la nota final de un estudiante es mayor o igual que 4,0,
 y el mensaje REPROBADO en caso contrario, considere además el siguiente requisito adicional que la nota debe cumplir: debe estar dentro del rango 1,0 a 7,0.
+
+# Algoritmo aprobado
+Escribir"Ingresa la calificación final obtenida"
+Leer calificación
+Si calificación <1&calificación<7 Entonces
+Sí calificación>=4 Entonces
+Escribir "APROBADO"
+Si No
+Escribir "REPROBADO"
+Fin Sí
+Sí No
+Escribir "La calificación no es valida requiere estar en el rango de 1 a 7"
+FIN SÍ
+Fin Algoritmo
+
+
+
+
+
+
 
 
 Actividad 2. Programa, usando algoritmo de estructura repetitiva, lo siguiente:
