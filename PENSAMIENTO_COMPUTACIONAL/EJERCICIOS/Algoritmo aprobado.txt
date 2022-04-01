@@ -1,0 +1,15 @@
+ # Algoritmo aprobado
+Escribir"Ingresa la calificación final obtenida"
+Leer calificación
+Si calificación <1&calificación<7 Entonces
+Sí calificación>=4 Entonces
+Escribir "APROBADO"
+Si No
+Escribir "REPROBADO"
+Fin Sí
+Sí No
+Escribir "La calificación no es valida requiere estar en el rango de 1 a 7"
+FIN SÍ
+Fin Algoritmo
+
+Algoritmo
